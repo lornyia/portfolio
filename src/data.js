@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Learn Hmong Now Project",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+        "A partner and I created an interactive Hmonng language tool utlizing the MEAN stack",
+    image: "./learnHmongNow.png",
+    link: "https://learnhmongnow.herokuapp.com/",
   },
   {
     title: "React Tracks",
